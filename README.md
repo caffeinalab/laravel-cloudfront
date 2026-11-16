@@ -43,7 +43,7 @@ Please note, object invalidations typically take from 60 to 300 seconds to compl
 You can install the package via composer:
 
 ```bash
-composer require meema/laravel-cloudfront
+composer require caffeinalab/laravel-cloudfront
 ```
 
 The package will automatically register itself.

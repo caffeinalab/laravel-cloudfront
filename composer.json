@@ -1,5 +1,5 @@
 {
-    "name": "timezhero/laravel-cloudfront",
+    "name": "caffeinalab/laravel-cloudfront",
     "description": "Easily & quickly integrate your application with AWS CloudFront.",
     "keywords": [
         "cloudfront",
